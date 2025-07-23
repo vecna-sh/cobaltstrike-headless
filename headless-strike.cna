@@ -1,7 +1,7 @@
 println("
 █▀▀ █▀█ █▄▄ ▄▀█ █░░ ▀█▀ █▀ ▀█▀ █▀█ █ █▄▀ █▀▀
 █▄▄ █▄█ █▄█ █▀█ █▄▄ ░█░ ▄█ ░█░ █▀▄ █ █░█ ██▄  (headless)
-https://github.com/CodeXTF2/cobaltstrike-headless
+https://github.com/vecna-sh/cobaltstrike-headless
 ");
 $current = '';
 command beacons{
